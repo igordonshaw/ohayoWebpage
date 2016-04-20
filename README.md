@@ -22,8 +22,8 @@
 
 ####课程说明
 #####该课程中所有代码只在Chrome浏览器中调试通过
-#####[访问课程](http://igordonshaw.github.io/ohayoWebpage/src/index.html "")
-#####[下载课程](https://github.com/igordonshaw/ohayoWebpage "")
+#####[访问课程](http://igordonxiao.github.io/ohayoWebpage/src/index.html "")
+#####[下载课程](https://github.com/igordonxiao/ohayoWebpage "")
 
 ####课程截图
 ![alt text](https://raw.githubusercontent.com/igordonshaw/ohayoWebpage/master/src/screenshot/9B3F8CDE-E239-4464-9B47-B3565110D139.png "截图1")
